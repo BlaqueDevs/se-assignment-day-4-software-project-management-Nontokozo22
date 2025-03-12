@@ -36,13 +36,30 @@ Disadvantage:
 
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile is ideal for projects that are not linear and have room for continous improvement actions like event planning while Waterfall is preferable for well defined and linear projects with strict deadlines like the construction of a building. 
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+
+Quality planning
+Code reviews
+Software testing
+Continous Intergration
+
+It is important to maintain high standards for customer satisfaction, reducing or minimising costs, for the reputation of the business and for security and compliance.
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+It enables one to plan to fully solve the problem through understanding, searching for solutions and akes the process flow planning easier.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+It will make it easier for me to predict future market movements, identify opportunity for growth, mitigate potential risks and assist in analysing the patterns of my target market.
