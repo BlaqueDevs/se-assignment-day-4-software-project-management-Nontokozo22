@@ -49,8 +49,9 @@ It is important to maintain high standards for customer satisfaction, reducing o
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
-## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 
+## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Having a detailed schedule will help me to track my progress, improve work efficiency, assist me n managing my resources especially time, effectively and reduce stress.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
