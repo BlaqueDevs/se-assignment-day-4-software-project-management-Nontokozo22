@@ -48,19 +48,24 @@ Continous Intergration
 It is important to maintain high standards for customer satisfaction, reducing or minimising costs, for the reputation of the business and for security and compliance.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+It helps to break down complex projects into smaller manageable projects, ensuring clarity on what needs to be done, helps to effectively allocate resources and ultimately do better project execution and outcomes.
+
+A Work Breakdown Structure is a hierarchical chart that breaks down a project's scope into smaller manageable work packages.
+It is helpful as it visually maps out the project, providing a clear roadmap and resource allocation for project execution.
 
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 Having a detailed schedule will help me to track my progress, improve work efficiency, assist me n managing my resources especially time, effectively and reduce stress.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-
+I haven't yet figured out what my project will be about.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 It enables one to plan to fully solve the problem through understanding, searching for solutions and akes the process flow planning easier.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+I will ensure that it it short, simple and straight to the point. Use cartoon illustrations, humour, state facts and statistics regarding the problem, keep the audience engaged by keeping them intrigued on what the project is about.
 ## 11. What are the main features or functionalities that make your software stand out?
-
+I will answer when I have a plan of what I want to solve in my society.
 ## 12. What data is available regarding the market size and growth potential for your software?
-
+My project will be targeted to be used by the youth, so growth potential and market size is quite positive.
 ## 13. How can understanding market trends inform your software’s positioning and development?
 It will make it easier for me to predict future market movements, identify opportunity for growth, mitigate potential risks and assist in analysing the patterns of my target market.
